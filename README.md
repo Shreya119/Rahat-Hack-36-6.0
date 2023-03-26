@@ -20,10 +20,10 @@ Yoga Therapy suggests the asanas and meditation practices that a user should pra
 
   
 ## Demo Video Link:
-  <a href=" https://youtu.be/wKjZekRXmdU "> Rahat   </a>
+  <a href="https://youtu.be/wKjZekRXmdU"> Rahat   </a>
   
 ## Presentation Link:
-  <a href=" https://www.canva.com/design/DAFeO23nBcQ/68tgdWU8B8Djm2A9u_RytA/view?utm_content=DAFeO23nBcQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "> Rahat-Hack 36 6.0 </a>
+  <a href="https://www.canva.com/design/DAFeO23nBcQ/68tgdWU8B8Djm2A9u_RytA/view?utm_content=DAFeO23nBcQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> Rahat-Hack 36 6.0 </a>
   
   
 ## Table of Contents:
