@@ -9,7 +9,7 @@
 
 
 ## Introduction:
-A Webapp which detects the stress level of a user over a time period using ML model trained over HRV (Heart Rate variability) data and a set of questions. The HRV data is calculated through fit bands as they measure the heart rate of user time to time. 
+A Webapp which detects the stress level of a user over a time period using ML model trained over HRV (Heart Rate variability) data and a set of questions that will make sure if the user is actually suffering through bad mental health or if it is just due to some recent intense activity of the user. The HRV data is calculated through fit bands as they measure the heart rate of user time to time.
 After detection of the user's stress level the user will be directed to respective therapies as per his/her choice.
 <p align>
 There are three therapy - 1. Music Therapy 2. Interaction Therapy 3. Yoga and Meditation Therapy
